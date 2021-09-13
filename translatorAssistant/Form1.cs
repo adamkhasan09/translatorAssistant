@@ -84,7 +84,7 @@ namespace translatorAssistant
                     Thread.Sleep(500);
                     // берем данные с буфера
                     string query = Clipboard.GetText();
-                    //MessageBox.Show(nDelFlag.ToString());
+                    //MessageBox.Show(sourse);
                     nDelFlag = checkBox1.Checked;
                     if (sourse == "Google translate")
                     {
@@ -144,7 +144,7 @@ namespace translatorAssistant
                     sourse = "Google translate";
                 if (serviceId == 1)
                     sourse = "Multitran";
-                
+                //MessageBox.Show(serviceId.ToString());
             }
             catch
             {
