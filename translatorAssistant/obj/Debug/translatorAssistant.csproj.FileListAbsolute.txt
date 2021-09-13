@@ -1,0 +1,10 @@
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\bin\Debug\translatorAssistant.exe.config
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\bin\Debug\translatorAssistant.exe
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\bin\Debug\translatorAssistant.pdb
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.csproj.AssemblyReference.cache
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.Form1.resources
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.Properties.Resources.resources
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.csproj.GenerateResource.cache
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.csproj.CoreCompileInputs.cache
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.exe
+F:\project_SCADA\VS\translatorAssistant\translatorAssistant\obj\Debug\translatorAssistant.pdb
